@@ -1,0 +1,287 @@
+.mac-book-air-24 {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 29px;
+    display: flex;
+  }
+  
+  .image-108 {
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: space-between;
+    background-color: rgb(221, 242, 249);
+    align-items: stretch;
+    padding-right: 8px;
+    display: flex;
+  }
+  
+  .image-109 {
+    width: 528px;
+    height: 100vh;
+    object-fit: cover;
+    background-image: url("https://i.pinimg.com/564x/a1/8e/37/a18e37b0ef9327357c88449b688fd5e1.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-right: 12px;
+  }
+  
+  .Flex-container {
+    height: 95%;
+    flex-direction: column;
+    flex-basis: 39%;
+    justify-content: space-between;
+    align-self: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 6px;
+    display: flex;
+  }
+  
+  .Flex-container-1 {
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    align-items: stretch;
+    margin-bottom: 19px;
+    margin-right: 13px;
+    display: flex;
+  }
+  
+  .image-79 {
+    width: 187px;
+    height: 178px;
+    object-fit: cover;
+    background-position: center;
+    background-image: url("https://www.fabhotels.com/blog/wp-content/uploads/2018/10/1000x650-29.jpg");
+    background-size: cover;
+    margin-top: -30px;
+  }
+  
+  .image-80 {
+    width: 213px;
+    height: 181px;
+    object-fit: cover;
+    background-position: center;
+    background-image: url("https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/xrz9k1zzjw9nogj5igwa");
+    background-size: cover;
+    margin-top:-30px;
+  }
+  
+  .krk-mess {
+    text-align: center;
+    margin-top: 4px;
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 44px;
+    margin-left: 250px;
+    color: #000;
+  }
+  
+  .Flex-container-2 {
+    color: #fffefe;
+    text-align: center;
+    width: 45%;
+    flex-direction: row;
+    flex-basis: 4%;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 1px;
+    font-size: 1.25rem;
+    line-height: 24px;
+    display: flex;
+  }
+  .image-222 {
+    width: 44px;
+    height: 38px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    align-self: flex-start;
+    
+    background-image: url("https://cdn0.iconfinder.com/data/icons/basic-ui-vol-1/32/UI_stroke-46-512.png");
+  }
+
+  .num-35 {
+    padding-top: 2.5px;
+    margin-bottom: -1px;
+    margin-right: 5px;
+    color: #000;
+    font-size: 34px;
+  }
+  
+  .star-14 {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    background-image: url("https://static4.depositphotos.com/1001003/335/i/600/depositphotos_3350007-stock-photo-3d-star.jpg");
+    margin-left: 4px;
+    background-size: cover;
+  }
+  
+  .Flex-container-3 {
+    height: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    display: flex;
+    margin-left: 200px;
+  }
+  
+  .star-15 {
+    width: 31px;
+    height: 32px;
+    background-image: url("https://static4.depositphotos.com/1001003/335/i/600/depositphotos_3350007-stock-photo-3d-star.jpg");
+    object-fit: cover;
+    background-size: cover;
+  }
+  
+  .star-16 {
+    width: 31px;
+    height: 32px;
+    object-fit: cover;
+    background-image: url("https://static4.depositphotos.com/1001003/335/i/600/depositphotos_3350007-stock-photo-3d-star.jpg");
+    z-index: 1;
+    margin-left: -2px;
+    align-self: flex-end;
+    background-size: cover;
+  }
+  
+  .star-17 {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    align-self: flex-start;
+  }
+  
+  .star-18 {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    align-self: flex-start;
+    margin-left: 2px;
+  }
+  
+  .open-closes-2300 {
+    text-align: center;
+    margin-bottom: 13px;
+    font-weight: 300;
+    color:#0b0b0b;
+    margin-left: 270px;
+  }
+  
+  .Flex-container-4 {
+    width: 75%;
+    flex-direction: column;
+    flex-basis: 39%;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: stretch;
+    margin-top: 2px;
+    margin-right: -30px;
+    font-weight: 600;
+    display: flex;
+  }
+  
+  .cat-absolute-container {
+    width: 100%;
+    z-index: 1;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: -302px;
+    padding-bottom: 1px;
+    padding-right: 3px;
+    display: flex;
+  }
+  
+  .num-4696-b-jk-nagar-jm {
+    margin-left: 7px;
+  }
+  
+  .phone-9342594863 {
+    margin-bottom: 4px;
+  }
+  
+  .rectangle-35 {
+    color: #000;
+    width: 50%;
+    background-color: #d9d9d9;
+    border: none;
+    flex-direction: row;
+    flex-basis: 13%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 10px;
+    padding-bottom: 2px;
+    padding-right: 1px;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 29px;
+    display: flex;
+  }
+  
+  .view-more {
+    margin-bottom: px;
+  }
+  
+  .group-49 {
+    width: 480px;
+    height: 302px;
+    object-fit: cover;
+    background-color: rgba(16, 95, 63, 0.96);
+    margin-bottom: 10px;
+    margin-right: 100px;
+  }
+  
+  .rectangle-22 {
+    color: #000;
+    width: 50%;
+    background-color: #6ec5af;
+    border: none;
+    border-radius: 20px;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: center;
+    align-self: flex-end;
+    align-items: center;
+    padding-top: 2px;
+    padding-left: 6px;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 29px;
+    display: flex;
+    margin-right:45px;
+  }
+  
+  .review {
+    margin-top: 1px;
+    margin-left: 3px;
+  }
+  
+  .group-55 {
+    width: 216px;
+    height: 178px;
+    object-fit: cover;
+    background-image: url("https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/xrz9k1zzjw9nogj5igwa");
+    background-size: cover;
+    margin-top: 1px;
+    margin-right: 30px;
+  }
+  

@@ -1,0 +1,30 @@
+.Edit
+{
+    height:740px;
+    width:800px;
+    border:1px solid black;
+    float:left;
+}
+.Editimg
+{
+    height: 740px;
+    width:800px;
+    background-image: url("https://dornsife.usc.edu/assets/img/news/story/3047.jpg");
+    background-size: cover;
+}
+.Editimg1
+{
+    height:740px;
+    width:100px;
+    border: 1px solid black;
+    float: right;
+    margin-right: 610px;
+}
+.Editimg2
+{
+    height:100px;
+    width:100px;
+    background-image: url("https://dornsife.usc.edu/assets/img/news/story/3047.jpg");
+    background-size: cover;
+    margin-top: 20px;
+}

@@ -1,0 +1,79 @@
+.krkmessb
+{
+    height:200px;
+    width:500px;
+    background-color: aqua;
+    margin-left: 200px;
+    margin-top: 60px;
+    border-radius: 30px;
+    float:left;
+}
+.krkmess{
+    height:100px;
+    width: 130px;
+    background-image: url("https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-112.jpg");
+    background-size: cover;
+    margin-top: 40px;
+}
+.gowravb
+{
+    height:200px;
+    width:500px;
+    background-color: aqua;
+    margin-left: 500px;
+    margin-right:160px;
+    margin-top: -200px;
+    border-radius:30px;
+    float:right;
+}
+.gowrav{
+    height:100px;
+    width: 130px;
+    background-image: url("https://cdn.pixabay.com/photo/2018/10/11/13/37/clothing-3739798__340.jpg");
+    background-size: cover;
+    margin-top: 40px;
+}
+.homeb
+{
+    height:200px;
+    width:500px;
+    background-color: aqua;
+    margin-left: 200px;
+    margin-top: 40px;
+    border-radius: 30px;
+    float:left;
+}
+.home{
+    height:100px;
+    width: 130px;
+    background-image: url("https://cdn.pixabay.com/photo/2018/10/11/13/37/clothing-3739798__340.jpg");
+    background-size: cover;
+    margin-top: 40px;
+}
+.kgfb
+{
+    height:200px;
+    width:500px;
+    background-color: aqua;
+    margin-left: 500px;
+    margin-right:160px;
+    margin-top: -200px;
+    border-radius:30px;
+    float:right;
+}
+.kgf{
+    height:100px;
+    width: 130px;
+    background-image: url("https://cdn.pixabay.com/photo/2018/10/11/13/37/clothing-3739798__340.jpg");
+    background-size: cover;
+    margin-top: 40px;
+}
+.headfo
+{
+  margin-top: 60px;
+  color:rgb(251, 249, 255);
+}
+body
+{
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2021/10/material-minimal-shape-4k_1634163652-2048x1152.jpg");
+}

@@ -1,0 +1,138 @@
+.comment
+{
+    height:700px;
+    width:500px;
+    border:1px solid black;
+    margin-left: 20px;
+    margin-top: 40px;
+    float:left;
+}
+.com1
+{
+    margin-left: -20px;
+}
+.revsubmit
+{
+    height:60px;
+    width:150px;
+    border: 1px solid black;
+    margin-left: 170px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.revsubmitwri
+{
+    padding-left: 8px;
+    padding-top: -5px;
+}
+.pubreview
+{
+    height:700px;
+    width:1012px;
+    border:1px solid black;
+    float:right;   
+    margin-top: 40px; 
+}
+.pubrevstr
+{
+    height:35px;
+    width:300px;
+    margin-left: 410px;
+}
+.pubrevrat
+{
+    margin-left: 20px;
+    margin-top: -15px;
+    float:left;
+}
+.prstr1
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://dornsife.usc.edu/assets/img/news/story/3047.jpg");
+    background-size: cover;
+    margin-left: -120px;
+}
+.prstr2
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://dornsife.usc.edu/assets/img/news/story/3047.jpg");
+    background-size: cover;
+    margin-left: 5px;
+}
+.prstr3
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://dornsife.usc.edu/assets/img/news/story/3047.jpg");
+    background-size: cover;
+    margin-left: 5px;
+}
+.prstr4
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://dornsife.usc.edu/assets/img/news/story/3047.jpg");
+    background-size: cover;
+    margin-left: 5px;
+}
+.pubcomments
+{
+    height:500px;
+    width:800px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.pubcom1
+{
+    height:100px;
+    width:300px;
+    border:1px solid black;
+    margin-left:50px; 
+    margin-top: 50px;
+}
+.pubcom2
+{
+    height:100px;
+    width:300px;
+    border:1px solid black;
+    margin-top: -100px;
+    margin-right: 50px;
+    float:right;
+}
+.pubcom3
+{
+    height:100px;
+    width:300px;
+    border:1px solid black;
+    margin-left:50px; 
+    margin-top: 50px;
+}
+.pubcom4
+{
+    height:100px;
+    width:300px;
+    border:1px solid black;
+    margin-top: -100px;
+    margin-right: 50px;
+    float:right;
+}
+.pubcom5
+{
+    height:100px;
+    width:300px;
+    border:1px solid black;
+    margin-left:50px; 
+    margin-top: 50px;
+}
+.pubcom6
+{
+    height:100px;
+    width:300px;
+    border:1px solid black;
+    margin-top: -100px;
+    margin-right: 50px;
+    float:right;
+}
